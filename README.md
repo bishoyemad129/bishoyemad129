@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bishoyemad129/bishoyemad129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bishoy
 
-Here are some ideas to get you started:
+🎓 Mechatronics Engineering Student  
+🤖 Interested in Robotics, Computer Vision, and AI  
+💻 Python | Arduino | TensorFlow | Embedded Systems  
+📍 Berlin, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔬 Currently working on Computer Vision projects
+- 🤖 Building robotics and embedded systems
+- 🎹 Developing a Smart MIDI Controller
+- 🧠 Learning Machine Learning and Deep Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+Python | C++ | MATLAB
+
+### Machine Learning
+TensorFlow | NumPy | OpenCV
+
+### Embedded Systems
+Arduino | Microcontrollers | Sensors | Servo Motors
+
+### Tools
+Git | VS Code | Linux | macOS
+
+---
+
+## 📂 Projects
+
+🔹 **Smart Parking System**  
+Arduino-based parking system using sensors, LCD display, and servo gate control.
+
+🔹 **CNN Image Classification Model**  
+Computer Vision project using TensorFlow and dataset augmentation.
+
+🔹 **Autonomous Rover (Micro:bit)**  
+Maze navigation robot using sensors and algorithmic pathfinding.
+
+🔹 **Smart MIDI Controller**  
+Hardware music controller integrated with digital audio software.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com  
+Email: your@email.com
