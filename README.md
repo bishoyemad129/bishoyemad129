@@ -50,6 +50,15 @@ Maze navigation robot using sensors and algorithmic pathfinding.
 🔷 **DIY MIDI Controller**
 Hardware music controller integrated with digital audio software.
 [View Project](https://github.com/bishoyemad129/My-Projects/tree/main/DIY%20MIDI%20controller)
+
+🔷 **7-Segment Display**
+Hardware display project using a 7-segment LED component.
+[View Project](https://github.com/bishoyemad129/My-Projects/tree/main/7-Segment%20diaplay)
+
+🔷 **Digital Imaging Processing**
+Image processing project applying digital filtering and transformation techniques.
+[View Project](https://github.com/bishoyemad129/My-Projects/tree/main/Digital%20Imaging%20processing)
+
 ---
 
 ## 📊 GitHub Stats
