@@ -13,7 +13,6 @@ I'm Bishoy
 
 - 🔬 Currently working on Computer Vision projects
 - 🤖 Building robotics and embedded systems
-- 🎹 Developing a Smart MIDI Controller
 - 🧠 Learning Machine Learning and Deep Learning
 
 ---
@@ -21,7 +20,7 @@ I'm Bishoy
 ## 🛠️ Tech Stack
 
 ### Programming
-Python | C++ | MATLAB
+Python | C | MATLAB
 
 ### Machine Learning
 TensorFlow | NumPy | OpenCV
@@ -38,7 +37,7 @@ Git | VS Code | Linux | macOS
 
 🔹 **Smart Parking System**  
 Arduino-based parking system using sensors, LCD display, and servo gate control.
-
+[View Project]https://github.com/bishoyemad129/My-Projects/tree/main/Smart%20Parking%20System
 🔹 **CNN Image Classification Model**  
 Computer Vision project using TensorFlow and dataset augmentation.
 
