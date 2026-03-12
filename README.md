@@ -52,11 +52,11 @@ Hardware music controller integrated with digital audio software.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishoyemad129&show_icons=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com  
-Email: your@email.com
+LinkedIn: https://www.linkedin.com/in/bishoy-nazir-3b5839284
+Email: bishoyemad129@gmail.com
