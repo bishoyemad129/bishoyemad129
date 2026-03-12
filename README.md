@@ -38,15 +38,18 @@ Git | VS Code | Linux | macOS
 🔹 **Smart Parking System**  
 Arduino-based parking system using sensors, LCD display, and servo gate control.
 [View Project]https://github.com/bishoyemad129/My-Projects/tree/main/Smart%20Parking%20System
+
 🔹 **CNN Image Classification Model**  
 Computer Vision project using TensorFlow and dataset augmentation.
+[View Project]https://github.com/bishoyemad129/My-Projects/tree/main/Ai%20and%20Machine%20learning
 
 🔹 **Autonomous Rover (Micro:bit)**  
 Maze navigation robot using sensors and algorithmic pathfinding.
+[View Project]https://github.com/bishoyemad129/My-Projects/tree/main/Maze%20solver%20Robot
 
-🔹 **Smart MIDI Controller**  
+🔹 **DIY MIDI Controller**  
 Hardware music controller integrated with digital audio software.
-
+[View Project]https://github.com/bishoyemad129/My-Projects/tree/main/DIY%20MIDI%20controller
 ---
 
 ## 📊 GitHub Stats
