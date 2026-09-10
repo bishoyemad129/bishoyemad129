@@ -35,6 +35,14 @@ Git | VS Code | Linux | macOS
 
 ## 🚀 Projects
 
+🔷 **Wireless Airflow Control System**
+ESP32-based wireless speed control for eight DC motors used in bicycle aerodynamics testing. Features a web dashboard, automated test sequences, and a separate wireless load-cell sensor for force measurement, aerodynamic power calculation, and CdA analysis.
+[View Project](https://github.com/bishoyemad129/Mighty_Engineering/tree/main/Airflow_Project)
+
+🔷 **Rechargeable Wireless Water Pump Controller**
+ESP32-C3-based rechargeable 12 V water pump controller with a Wi-Fi dashboard and timed operation. Integrates a JZ-MOS driver, Pololu pushbutton power switch, automatic shutdown, and a charging interlock to prevent activation while charging.
+[View Project](https://github.com/bishoyemad129/Mighty_Engineering/tree/main/water_pump_project)
+
 🔷 **Smart Parking System**
 Arduino-based parking system using sensors, LCD display, and servo gate control.
 [View Project](https://github.com/bishoyemad129/My-Projects/tree/main/Smart%20Parking%20System)
